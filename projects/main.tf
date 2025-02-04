@@ -1,1 +1,3 @@
-#test code
+module "folders" {
+    source = "./folders"
+}
